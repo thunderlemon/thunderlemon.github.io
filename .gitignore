@@ -1,0 +1,22 @@
+### Intellij ###
+.idea/
+out/
+.idea_modules/
+*.iml
+modules.xml
+*.ipr
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor
+Gemfile.lock
+
+### Node ###
+node_modules/
+npm-debug.log*
+
+### OS dependant files ###
+.DS_Store
