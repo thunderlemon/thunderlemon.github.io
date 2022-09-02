@@ -1,12 +1,16 @@
 # Thunder Lemon
 
-Official page of [Thunder Lemon](https://thethunderlemon.com).
+## Deployment
 
-Developed with [Jekyll](https://jekyllrb.com/).
+To run the theme locally, navigate to the theme directory and run `bundle install` to install
+the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll
+server.
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/)
+page on Jekyll's website.
 
-## How it works
+## License
 
-- `yarn install`: Install all the required packages to run the project
-- `yarn build`: Generate static files for deployment
-- `yarn dev`: Runs a local server to preview the site
+Copyright (c) 2022 - Present, Designed & Developed by [Thunder Lemon](https://thethunderlemon.com)
 
+Released under the [MIT](https://github.com/thunderlemon/thunderlemon.github.io/blob/main/LICENSE)
+license.
