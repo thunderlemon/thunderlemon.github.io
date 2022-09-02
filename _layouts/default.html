@@ -3,10 +3,16 @@
 
 {% include head.html %}
 
-<body id="page-top">
-  {% include nav.html %}
+<body>
+
   {% include header.html %}
-  {% include scripts.html %}
+
+  {{ content }}
+
+  {% include contact-section.html %}
+
+  {% include footer.html %}
+
 </body>
 
 </html>

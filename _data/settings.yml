@@ -1,0 +1,60 @@
+---
+#-------------------------------
+# General Site Settings
+
+title: Thunder Lemon
+logo:
+author: Thunder Lemon
+description: Official site of Thunder Lemon
+copyright: Copyright &copy; 2022 Designed & Developed by [Thunder Lemon](https://thethunderlemon.com)
+
+menu:
+  - { name: About, link: "/about" }
+  - { name: Projects, link: "/projects" }
+  - { name: Contact, link: "/contact" }
+
+#-------------------------------
+# Google Analytics Section
+
+google-analytics: G-SZS2JK1KPP
+
+#-------------------------------
+# Hero Section
+
+hero:
+  hero-title: Thunder Lemon
+
+social:
+  - { icon: "ti-facebook", link: "https://www.facebook.com/thethunderlemon" }
+  - { icon: "ti-instagram", link: "https://instagram.com/thethunderlemon" }
+  - { icon: "ti-twitter", link: "https://twitter.com/thethunderlemon" }
+
+#-------------------------------
+# About (Section and Page)
+
+# About Section
+blurb: >
+  Our mission is to help people to discover the world in a different way.
+  Based on a technology ecosystem, we will bring interactive experiences for you, to enjoy everyday, everywhere.
+
+blurb-btn-link: "/about"
+blurb-btn-name: know more
+
+# Team Section
+team:
+  - title: "Juan Carlos Gonzalez"
+    image: "assets/images/team/malkomich.jpg"
+    designation: "Founder"
+
+#-------------------------------
+# Projects Section
+
+project-items:
+  - image: "assets/images/projects/buffstage.jpg"
+    url: "https://buffstage.com"
+
+#-------------------------------
+# Contact Section
+
+contact-title: Contact Info
+contact-form: xaykqwoe
